@@ -15,7 +15,7 @@ This is a gradio demo with web ui supporting [Stable Diffusion XL 1.0](https://g
 
 This is forked from [StableDiffusion v2.1 Demo WebUI](https://huggingface.co/spaces/gradio-client-demos/stable-diffusion). Refer to the git commits to see the changes.
 
-**Update:** [SD XL 1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) is released and our Web UI demo supports it! No application is needed to get the weights! Launch the colab to get started. You can run this demo on Colab for free even on T4. <a target="_blank" href="https://colab.research.google.com/github/TonyLianLong/stable-diffusion-xl-demo/blob/main/Stable_Diffusion_XL_Demo.ipynb">
+**Update:** [SD XL 1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0) is released and our Web UI demo supports it! No application is needed to get the weights! Launch the colab to get started. You can run this demo on Colab for free even on T4. <a target="_blank" href="https://colab.research.google.com/github/ErnieV/stable-diffusion-xl-demo/blob/main/Stable_Diffusion_XL_Demo.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
 **Update:** Multiple GPUs are supported. You can easily spread the workload to different GPUs by setting `MULTI_GPU=True`. This uses data parallelism to split the workload to different GPUs.
@@ -24,7 +24,7 @@ This is forked from [StableDiffusion v2.1 Demo WebUI](https://huggingface.co/spa
 
 ## Examples
 
-**Update:** [See a more comprehensive comparison with 1200+ images here](https://github.com/TonyLianLong/stable-diffusion-xl-demo/tree/benchmark/benchmark). Both SD XL and SD v2.1 are benchmarked on prompts from [StableStudio](https://github.com/Stability-AI/StableStudio).
+**Update:** [See a more comprehensive comparison with 1200+ images here](https://github.com/ErnieV/stable-diffusion-xl-demo/tree/benchmark/benchmark). Both SD XL and SD v2.1 are benchmarked on prompts from [StableStudio](https://github.com/Stability-AI/StableStudio).
 
 Left: SDXL. Right: [SD v2.1](https://huggingface.co/spaces/gradio-client-demos/stable-diffusion).
 
